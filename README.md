@@ -20,7 +20,9 @@ by [Chenxi Whitehouse](https://chenxwh.github.io/),  [Monojit Choudhury](https:/
 
 ## Synthesised Dataset
 
-We release GPT-4 generated English Winograd, StoryCloze, and Multilingual XCOPA in `./data`. You can also load the datasets directly from HuggingFace.
+We release GPT-4 generated English Winograd, StoryCloze, and Multilingual XCOPA in `./data`. We note that the non-English XCOPA should be used with caution as some of the langauge may have very poor performance, such as `Tamil`. 
+
+You can also load the datasets directly from HuggingFace:
   - [Multilingual XCOPA](https://huggingface.co/datasets/chenxwh/gen-xcopa)
   - [English Winograd](https://huggingface.co/datasets/chenxwh/gen-winograd)
   - [English StoryCloze](https://huggingface.co/datasets/chenxwh/gen-storycloze)
