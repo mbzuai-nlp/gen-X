@@ -1,6 +1,6 @@
 # Gen-X
 
-Resources for our paper   :tada:<br> 
+Resources for our paper, accepted to main conference of EMNLP 2023   :tada:<br> 
 <h3>
  LLM-powered Data Augmentation for Enhanced Crosslingual Performance
 </h3>
